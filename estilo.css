@@ -1,21 +1,4 @@
-#name {
-  color: blue;
-}
-
-#eu > #name {
-    font-size: 26pt;
-}
-
-p, h1 {
+p {
   color: red;
   
-}
-
-p {
-  font-size: 16pt;
-}
-
-
-.container {
-  background-color: yellow;
 }
